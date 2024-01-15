@@ -122,4 +122,4 @@ const e=document.querySelector("#theme-switch-toggle"),t=document.querySelector(
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/gallery.js"),require("./js/theme-switch.js");
 },{"./js/gallery.js":"chxP","./js/theme-switch.js":"JIhF"}]},{},["Focm"], null)
-//# sourceMappingURL=/imageSearcher/src.72b701ad.js.map
+//# sourceMappingURL=/imageSearcher/src.8a682f83.js.map
